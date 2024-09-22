@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sbowkh.github.io/sitemap.html.gz
+Sitemap: https://sbowkh.github.io/app/sitemap.html.gz
+Sitemap: https://sbowkh.github.io/assets/sitemap.html.gz
+Sitemap: https://sbowkh.github.io/css/sitemap.html.gz
+Sitemap: https://sbowkh.github.io/data/sitemap.html.gz
+Sitemap: https://sbowkh.github.io/includes/sitemap.html.gz
+Sitemap: https://sbowkh.github.io/item/sitemap.html.gz
+Sitemap: https://sbowkh.github.io/src/sitemap.html.gz
